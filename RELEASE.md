@@ -9,4 +9,4 @@
 - Added ProxyIP:Port format. You can enter Proxy IP just like before (default port is 443) or enter ProxyIP:Port if you have a Proxy IP on a different port. 
 - Fixed Clash Trojan bug in 3.2.5
 - Improved performance of all cores on DOH with `https://Domain/dns-query` format.
-- Refactored and some other bug fixes.
+- Refactored and some other bug fixes. 
